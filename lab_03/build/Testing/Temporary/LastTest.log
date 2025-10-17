@@ -1,0 +1,48 @@
+Start testing: Oct 17 20:05 MSK
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/Users/yana/oop_labs/lab_03/build/tests"
+Directory: /Users/yana/oop_labs/lab_03/build
+"AllTests" start time: Oct 17 20:05 MSK
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4780-aa0gxy/googletest-1.17.0/googletest/src/gtest_main.cc
+[==========] Running 6 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.AreaAndCenter
+[       OK ] RectangleTest.AreaAndCenter (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.AreaAndCenter
+[       OK ] TrapezoidTest.AreaAndCenter (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.AreaAndCenter
+[       OK ] RhombusTest.AreaAndCenter (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] 3 tests from FigureEquality
+[ RUN      ] FigureEquality.Rectangle
+[       OK ] FigureEquality.Rectangle (0 ms)
+[ RUN      ] FigureEquality.Trapezoid
+[       OK ] FigureEquality.Trapezoid (0 ms)
+[ RUN      ] FigureEquality.Rhombus
+[       OK ] FigureEquality.Rhombus (0 ms)
+[----------] 3 tests from FigureEquality (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Oct 17 20:05 MSK
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 17 20:05 MSK

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/tests/test_figures.cpp.o CMakeFiles/tests.dir/Rectangle.cpp.o CMakeFiles/tests.dir/Trapezoid.cpp.o CMakeFiles/tests.dir/Rhombus.cpp.o -o tests  /opt/homebrew/lib/libgtest_main.a /opt/homebrew/lib/libgtest.a
